@@ -34,3 +34,5 @@ SC File Renamer is a modern, blazing-fast, open-source desktop application desig
    *The `.exe` installer will be output to the `dist-release` directory.*
 ## License 📄
 This project is licensed under the MIT License.
+
+<a href="https://www.producthunt.com/products/sc-file-renamer?embed=true&amp;utm_source=badge-featured&amp;utm_medium=badge&amp;utm_campaign=badge-sc-file-renamer" target="_blank" rel="noopener noreferrer"><img alt="SC File Renamer - Organize and rename messy media files instantly. | Product Hunt" width="250" height="54" src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1185667&amp;theme=dark&amp;t=1782977378999"></a>
